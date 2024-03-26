@@ -18,7 +18,7 @@
 
 ## 🙋🏻‍♂️ About Me :
 
-- 🔭 I’m a smart contract dev currently with two years of experience in DeFi. I am currently working full-time on a number of projects (using different github accounts :)). That said, I am always open to meeting more people in the industry so please feel free to reach out to chat!
+- 🔭 I’m a smart contract dev / dev rel currently with over three years of experience in DeFi full-time. I am currently working full-time on a number of projects (using different github accounts :)). That said, I am always open to meeting more people in the industry so please feel free to reach out to chat! Please inquire for my formal resume :), otherwise here's some details about some of my work / me!
 - 🌱 As well, I contributed / contribute to open-source DeFi projects including: 
    - Smart Contract Work (Solidity): Yearn strategies && general oracle design
    - Technical Writing: [technical threads](https://typefully.com/t/T3CNVzI) for Yearn, Balancer, DAO tooling, Subgraphs, && NFTs
@@ -28,16 +28,18 @@
 - ⚡ Fun facts: I've hitch hiked in Iceland, and was CTO of a hockey equipment startup in the NHL (but can't stop on skates 🤷🏻‍♂️)
 
 ---
-## 📜 CV (newest to oldest, if no README see description)
+## 📜 CV - (newest to oldest, if no README see description)
 
-1. **January 2023 - April 2023: [Yearn Mellow-Gearbox_wETH Strategy](https://github.com/umphams/yearn_mellow-gearbox-strategy)**
+1. **April 2023 - Present: Defi Smart Contracts Contributor && Dev Rel w/ numerous projects**
 
-2. **January 2023 - Present: Standardized Oracle System** - in private repo currently. 
+2. **January 2023 - April 2023: [Yearn Mellow-Gearbox_wETH Strategy](https://github.com/umphams/yearn_mellow-gearbox-strategy)**
+
+3. **January 2023 - Present: Standardized Oracle System** - in private repo currently. 
   - Draft Thread: https://typefully.com/t/yNLqP7A
   - Figma: https://www.figma.com/file/cJnuNMpZaU7qto39P8NxR2/Today%27s-Oracle-Design-Flow-Chart-v1?node-id=0%3A1&t=0I5QbBWpBvaO4G6M-1
 
 
-3. **March 2022 - January 2023: Ekonomia Technologies core contributions to Photon Finance Protocol** - Smart Contract Development && Partnerships Integration (see [architecture schematic](https://drive.google.com/file/d/1cNvRpRHazSg40sw10evm_sVobBsfroec/view?usp=share_link) & [whitepaper](https://drive.google.com/file/d/1nWtAZnyW2famK8JDk3CNW-0Yzv_w3UFa/view?usp=share_link) here for reference. Highlighted PRs below showcase my past experience in conceptual design, implementation, reviewing, && testing for various contracts:
+4. **March 2022 - January 2023: Ekonomia Technologies core contributions to Photon Finance Protocol** - Smart Contract Development && Partnerships Integration (see [architecture schematic](https://drive.google.com/file/d/1cNvRpRHazSg40sw10evm_sVobBsfroec/view?usp=share_link) & [whitepaper](https://drive.google.com/file/d/1nWtAZnyW2famK8JDk3CNW-0Yzv_w3UFa/view?usp=share_link) here for reference. Highlighted PRs below showcase my past experience in conceptual design, implementation, reviewing, && testing for various contracts:
 
     - **[ModuleManager.sol](https://github.com/ekonomia-tech/protocol-alpha/pull/49)** :
       - The Module Manager acted as the intermediary between the Modules and the
@@ -49,8 +51,8 @@ Kernel.
     - **[Liquity Subgraph for Reputation Scoring](https://github.com/ekonomia-tech/lending-subgraph-standard/pull/8)** : 
       - Created and deployed the first iteration of the liquity subgraph that follows the "Lending Subgraph Standard" schema. It was meant to be used for a potential reputation scoring system within early iterations of Photon protocol where lending and borrowing rates would differ based on on-chain reputation scores from accrued & ongoing on-chain activity.   
       
-4. **March 2022 - [Pak Subgraph](https://github.com/squirtleDevs/subgraphs)** : Implemented my first subgraph whilst thinking about perspective & use cases of end-user.
+5. **March 2022 - [Pak Subgraph](https://github.com/squirtleDevs/subgraphs)** : Implemented my first subgraph whilst thinking about perspective & use cases of end-user.
   
-5. **January 2022 - Present [BUIDL GUIDL Contributor](https://buidlguidl.com/builders/0x59ea223b48f0E1B6AdDD86cE6551dC44E2c7cb75)**
+6. **January 2022 - Present [BUIDL GUIDL Contributor](https://buidlguidl.com/builders/0x59ea223b48f0E1B6AdDD86cE6551dC44E2c7cb75)**
 
   _*TWAP implementation found not suitable for curve, so implemented other corrections. Spun out to now deeper understanding && research for a generic oracle setup for all protocols to use._
