@@ -22,7 +22,7 @@
    - Technical Writing: [technical threads](https://typefully.com/t/T3CNVzI) for Yearn, Balancer, DAO tooling, Subgraphs, && NFTs
    - Developer Advocacy: [beginner tutorials](https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-4-dex) & more [advanced tutorials](https://github.com/scaffold-eth/Scaffold-ETH-DeFi-Challenges/tree/challenge-1-simple-yearn-strategy) about integrating into actual DeFi protocols for BUIDL GUIDL
       - Most recent work is focused on finishing the [Scaffold-ETH-DeFi-Challenge-2 revolving around ERC4626 Adaptors with Sommelier and Aura Protocol](https://github.com/scaffold-eth/Scaffold-ETH-DeFi-Challenges/tree/challenge-2-sommelier-erc4626-adaptor) as an example. I am also working with a handful of other developers on [Custom Balancer pool content for Scaffold-Balancer](https://medium.com/@BalancerGrants/buidlguidl-are-developing-a-how-to-for-balancer-custom-pools-from-scaffold-eth-afd7b6a55d03).  
-- 👨🏻‍💻 Recent public work: Serve as a Balancer Grants Committee member, co-hosted a hackerhouse at EthDenver 2023 with Jessy's Hackerhouse && BUIDL GUIDL, core contributor to Photon, a decentralized stablecoin protocol (see pinned repos && CV Details below for highlights) 
+- 👨🏻‍💻 Recent public work: Serve as a Balancer Grants Committee member, co-hosted a hackerhouse at EthDenver 2023 with Jessy's Hackerhouse && BUIDL GUIDL, core contributor to a decentralized stablecoin protocol (did not go to prod.). 
 
 ---
 ## 📜 CV - (newest to oldest, if no README see description)
